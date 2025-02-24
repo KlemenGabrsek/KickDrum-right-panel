@@ -9,5 +9,5 @@
 ![](right_panel_bot.png)
 
 # Schematic
-![](right_panel_SCH.png)
+![](right_panel_sch.png)
 
